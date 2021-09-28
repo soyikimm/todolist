@@ -1,0 +1,80 @@
+.hidden {
+  display: none;
+}
+
+.search-bar {
+  width: 500px;
+}
+
+li {
+  list-style: none;
+}
+
+h2 {
+  text-decoration: beige;
+}
+
+button {
+  color: none;
+}
+
+body {
+  background-image: url(../img/0.jpg);
+}
+
+#weather {
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: left;
+  font-size: 20px;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+#clock {
+  padding: 10px;
+  color: white;
+  margin-top: 210px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+}
+
+#greeting {
+  border: 1px white;
+  color: white;
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  padding: 20px;
+}
+
+#todo-form {
+  color: white;
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+
+#todo-list {
+  font-size: 20px;
+  font-weight: bold;
+  display: grid;
+  color: white;
+  justify-content: center;
+  text-align: center;
+}
+
+#quote {
+  width: 100%;
+  padding: 10px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+}

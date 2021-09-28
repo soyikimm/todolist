@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">  <!-- 웹페이지가 무슨 언어로 되어있는지 작성하는 곳-->
+
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" 
+          rel="stylesheet" 
+          integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" 
+           crossorigin="anonymous">
+    
+    <!--주소 파일의 경로를 표시하는곳 ex)C\내문서\style.css-->
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Momentum App</title>
+  </head>
+  
+
+<body>
+<div class="bg">
+
+  <!-- Weather -->
+<div id="weather">
+  <span></span>
+  <span></span>
+</div>
+
+<!-- Clock -->
+    <h2 id="clock">00:00:00</h2>
+
+<!-- login -->
+    <form id="login-form" class="mx-auto search-bar input-group mb-3 hidden">
+      <input
+        required
+        aria-describedby="button-addon2"
+        class="form-control"
+        maxlength="15"
+        type="text"
+        placeholder="이름이 어떻게되세요?"
+      />
+      <input type="submit" value="Log In"  class="btn btn-secondary btn-lg"/>
+    </form>
+    
+<!--Greeting -->
+    <h1 class="hidden" id="greeting"></h1>
+
+<!-- TodoForm -->
+    <form id="todo-form">
+      <div class="mx-auto search-bar input-group mb-3 ">
+        <input type="text" class="form-control" placeholder="Write a todo-list" aria-label="Recipient's username" aria-describedby="button-addon2">
+        <button type="button" class="btn btn-secondary btn-lg" 
+        disabled>Enter!</button>
+      </div>
+     
+    </form>
+
+<!-- Todolist -->
+    <div id="todo-list" class="todo">
+      <ul id="js-todoList" class="todo__list">
+      </ul>
+    </div>
+    
+<!-- Quote -->
+    <span id="quote">
+      <span></span>
+      <span></span>
+    </span id="author">
+
+    <script src="js/weather.js"></script>
+    <script src="js/greetings.js"></script>
+    <script src="js/clock.js"></script>
+    <script src="js/quotes.js"></script>
+    <script src="js/todo.js"></script>
+    
+    </body>
+  </div>
+</html>
