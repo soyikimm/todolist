@@ -2,8 +2,7 @@ const quote = document.querySelector("#quote span:first-child");
 const author = document.querySelector("#quote span:last-child");
 
 
-//math.random()은 0과 1사이의 랜덤한 숫자를 가져옴.
-//math.floor() 정수를 반환합니다.
+
 
 const quotes = [
     {
@@ -48,7 +47,11 @@ const quotes = [
     },
   ];
   
-  const todaysQuote = quotes[Math.floor(Math.random() * quotes.length)]; 
-//quotes의 명언을 다 셀수 없어서 length를 적어주면 알아서 세줌.
-  quote.innerText = todaysQuote.quote;
-  author.innerText = todaysQuote.author;
+  const todaysQuote = quotes[Math.floor(Math.random() * quotes.length)];
+  //Math.random()은 랜덤한 0~1사이의 숫자를 가져다준다.
+  //math.floor() 정수를 반환
+  //명언의 갯수와 곱하면 명언의 최대갯수을 넘지 않는 랜덤한숫자를 얻게됨.
+  //만약 명언의 갯수가 5개라면 0~4의 랜덤한 수를 얻음. 그로써 명언이 랜덤으로 나옴
+  
+  quote.innerText = todaysQuote.quote; //명언
+  author.innerText = todaysQuote.author; //말한사람
