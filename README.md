@@ -1,5 +1,5 @@
 # todolist
- solyi's todolist
+ solyi's todolist </
  순수 바닐라 자바스크립트로 만든 투두리스트 입니다.
  
  
