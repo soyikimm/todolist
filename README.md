@@ -28,3 +28,4 @@
 - Get Weather Information</br>
   API를 이용하여 실시간 날씨를 알려주는 기능
 
+![image](https://user-images.githubusercontent.com/89246392/144338992-570cafba-c275-4252-a619-d72d5e35a75f.png)
