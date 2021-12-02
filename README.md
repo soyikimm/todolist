@@ -5,7 +5,7 @@
  
 ![image](https://user-images.githubusercontent.com/89246392/144336697-a67b552c-a2a1-4021-b677-7438dc0970b5.png)
 
-
+<hr>
 ♥ 구현한 기능들</br></br>
 ![image](https://user-images.githubusercontent.com/89246392/144337753-0f7e3cae-8404-4657-9337-b155f5b435e3.png)</br>
 - Log In </br>
