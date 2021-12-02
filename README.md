@@ -8,7 +8,7 @@
 <hr>
 </br></br>
 ♥ 구현한 기능들</br></br>
-![image](https://user-images.githubusercontent.com/89246392/144337753-0f7e3cae-8404-4657-9337-b155f5b435e3.png)</br>
+![image](https://user-images.githubusercontent.com/89246392/144338233-19e16a75-af85-44a9-a906-132b8062b925.png)</br>
 - Log In </br>
  Local Storage를 활용하여 로그인기능 구현
 - JS To Do List</br>
