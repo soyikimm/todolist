@@ -9,13 +9,13 @@
 ♥ 구현한 기능들
 - Log In </br>
   Local Storage를 활용하여 로그인기능 구현
-- JS Clock
+- JS Clock</br>
   현재 시간을 호출하여 실시간으로 시간을 알려줌
-- JS To Do List
+- JS To Do List</br>
   새로고침해도 지워지지 않으며, 체크를 누르면 사라짐
-- Get Geolocation
+- Get Geolocation</br>
   내가 어디에 위치해 있는지 알려주는 기능
-- Get Weather Information
+- Get Weather Information</br>
   API를 이용하여 실시간 날씨를 알려주는 기능
-- Quotes
+- Quotes</br>
   새로고침을 할때마다 랜덤으로 다른문구를 보여주는 기능
