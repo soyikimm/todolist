@@ -8,14 +8,6 @@
 <hr>
 </br></br>
 ♥ 구현한 기능들</br></br>
-![image](https://user-images.githubusercontent.com/89246392/144338967-287bde5f-5a13-4b93-a666-6dbb93d482fe.png)
-
-</br>- Log In </br>
- Local Storage를 활용하여 로그인기능 구현
-- JS To Do List</br>
-  할 목록들을 기록해주고, 새로고침해도 지워지지 않으며 체크를 누르면 사라짐
-- Quotes</br>
-새로고침을 할때마다 랜덤으로 다른문구를 보여주는 기능</br></br>
 
 ![image](https://user-images.githubusercontent.com/89246392/144337796-664e5172-afdf-41b7-a06a-520b6641bc6a.png)</br>
 - JS Clock</br>
@@ -29,3 +21,9 @@
   API를 이용하여 실시간 날씨를 알려주는 기능
 
 ![image](https://user-images.githubusercontent.com/89246392/144338992-570cafba-c275-4252-a619-d72d5e35a75f.png)
+</br>- Log In </br>
+ Local Storage를 활용하여 로그인기능 구현
+- JS To Do List</br>
+  할 목록들을 기록해주고, 새로고침해도 지워지지 않으며 체크를 누르면 사라짐
+- Quotes</br>
+새로고침을 할때마다 랜덤으로 다른문구를 보여주는 기능</br></br>
