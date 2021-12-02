@@ -7,9 +7,8 @@
 
 <hr>
 </br></br>
-♥ 구현한 기능들</br></br>
-![image](https://user-images.githubusercontent.com/89246392/144338233-19e16a75-af85-44a9-a906-132b8062b925.png)</br>
-- Log In </br>
+♥ 구현한 기능들</br></br>![image](https://user-images.githubusercontent.com/89246392/144338276-0e80c8ae-d1a3-4678-bc2e-48d5b01484de.png)
+</br>- Log In </br>
  Local Storage를 활용하여 로그인기능 구현
 - JS To Do List</br>
   할 목록들을 기록해주고, 새로고침해도 지워지지 않으며 체크를 누르면 사라짐
