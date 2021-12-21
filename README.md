@@ -1,7 +1,8 @@
 # todolist
- solyi's todolist </br>
- 순수 바닐라 자바스크립트로 만든 투두리스트 입니다.
+ solyi's todolist with Vanilla.js</br>
  
+ 
+
  
 ![image](https://user-images.githubusercontent.com/89246392/144338186-acd4f87f-3779-40b2-bc78-ab64a573f9ac.png)
 
